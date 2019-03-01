@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SenDroid</string>
+    <integer-array name="img_id_arr">
+        <item>@drawable/firsthalf</item>
+        <item>@drawable/secondhalf</item>
+    </integer-array>
+</resources>

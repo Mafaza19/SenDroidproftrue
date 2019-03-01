@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578299806768",
+    "firebase_url": "https://memoire-e6423.firebaseio.com",
+    "project_id": "memoire-e6423",
+    "storage_bucket": "memoire-e6423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578299806768:android:10393ba8ee481de2",
+        "android_client_info": {
+          "package_name": "com.example.mafaza.projetfinetude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578299806768-jhs7ibc2ojr2at98pt0k887d7p0mq5c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mafaza.projetfinetude",
+            "certificate_hash": "4b82a9c470e214ab44e18dc052e0c9c870d7bcc5"
+          }
+        },
+        {
+          "client_id": "578299806768-tde1ovlehha5qjfq5rv1iof10ekknlmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFAgiqBPbRVicTKMMJFWbDsA4vviz4z_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578299806768-tde1ovlehha5qjfq5rv1iof10ekknlmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
